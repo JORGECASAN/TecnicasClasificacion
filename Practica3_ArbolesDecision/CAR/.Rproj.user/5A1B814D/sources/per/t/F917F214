@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544874615818.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F917F214",
+    "lastKnownWriteTime" : 2325339686836371456,
+    "last_content_update" : 1544874615818,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2D2240C6",
+        "caption" : "credit",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=credit&cache_key=2D2240C6",
+        "displayedObservations" : "1000",
+        "environment" : "",
+        "object" : "credit",
+        "preview" : "0",
+        "totalObservations" : "1000",
+        "variables" : "21"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

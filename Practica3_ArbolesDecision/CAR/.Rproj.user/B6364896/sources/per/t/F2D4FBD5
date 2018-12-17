@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541525504111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "247541565",
+    "id" : "F2D4FBD5",
+    "lastKnownWriteTime" : 1541525955,
+    "last_content_update" : 1541525955341,
+    "path" : "C:/Users/Usuario/Desktop/MASTER IN DATA SCIENCE/TÉCNICAS DE CLASIFICACIÓN/CAR/Script+car.R",
+    "project_path" : "Script+car.R",
+    "properties" : {
+        "cursorPosition" : "19,46",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
